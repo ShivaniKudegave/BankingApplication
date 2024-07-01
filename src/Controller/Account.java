@@ -39,4 +39,5 @@ public class Account {
         // Add validation checks (optional) and overdraft protection logic (optional)
         this.balance -= amount;
     }
+    // Banking application
 }
